@@ -7,6 +7,8 @@ ruby '2.3.6'
 gem 'rails', '~> 5.2.0'
 gem 'rails-i18n'
 gem 'foreman'
+gem 'devise'
+gem 'devise-i18n'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
